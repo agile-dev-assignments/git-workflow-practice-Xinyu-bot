@@ -1,2 +1,7 @@
 # Git Practice
-A simple project to practice a few git/github workflows.  Replace the contents of this file with the contents indicated in the [instructions](./instructions.md).
+
+[https://en.wikipedia.org/wiki/Software_bug](https://en.wikipedia.org/wiki/Software_bug)
+
+<p>Most bugs arise from mistakes and errors made in either a program's design or its source code, or in components and operating systems used by such programs. A few are caused by compilers producing incorrect code. A program that contains many bugs, and/or bugs that seriously interfere with its functionality, is said to be buggy (defective). Bugs can trigger errors that may have ripple effects. Bugs may have subtle effects or cause the program to crash or freeze the computer. Other bugs qualify as security bugs and might, for example, enable a malicious user to bypass access controls in order to obtain unauthorized privileges. </p>
+
+<p>Some software bugs have been linked to disasters. Bugs in code that controlled the Therac-25 radiation therapy machine were directly responsible for patient deaths in the 1980s. In 1996, the European Space Agency's US$1 billion prototype Ariane 5 rocket had to be destroyed less than a minute after launch due to a bug in the on-board guidance computer program. In June 1994, a Royal Air Force Chinook helicopter crashed into the Mull of Kintyre, killing 29. This was initially dismissed as pilot error, but an investigation by Computer Weekly convinced a House of Lords inquiry that it may have been caused by a software bug in the aircraft's engine-control computer.</p>
