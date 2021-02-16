@@ -10,3 +10,5 @@
 ### Edit by Arif Howlader
 
 <p>This is very interesting topic in that we can appreciate the signicance of our code and how impactful errors can be. The fact that bugs can cause disasters of enormous proportions is a bit of a lesson to us all on being more and more aware when coding.</p>
+
+<p>Adding this part in because I made the changes on the main branch accidently and so now I am making the changes on a new branch</p>
